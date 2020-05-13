@@ -6,6 +6,10 @@ On May 5 2020 the data unit contributed an [update to that day's liveblog](https
 
 Nick Stripe from the ONS said that while that was reassuring, the number of deaths overall is still many more than usual for this time of year.
 
+## Get the data
+
+* ONS: [Comparison of weekly death occurrences in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/comparisonofweeklydeathoccurrencesinenglandandwales/uptoweekending24april2020)
+
 ## Visualisation
 
 ![](https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/vivo/live/images/2020/5/5/12659b36-1f50-4b6f-92dc-9213bcdc2dcc.png)
